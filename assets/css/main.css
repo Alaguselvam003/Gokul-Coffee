@@ -740,7 +740,10 @@ form{
     padding: 20px;
     z-index: 9997;
   }
-
+  .card img {
+    height: auto;
+    width: 100%;
+}
   .navmenu ul {
     display: none;
     list-style: none;
