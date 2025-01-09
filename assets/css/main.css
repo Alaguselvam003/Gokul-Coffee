@@ -169,6 +169,9 @@ body {
 .image{
   width: 50%;
 }
+.image1{
+  width: 45%;
+}
 .card-text{
   margin-left: 50px;
   font-weight: bold;
@@ -788,7 +791,7 @@ form{
     transition: 0.3s;
     background-color: color-mix(in srgb, var(--accent-color), transparent 90%);
   }
-  navmenu a {
+  .navmenu a {
     color: #784A2E;
 }
   .navmenu a i:hover,
